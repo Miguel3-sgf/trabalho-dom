@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #0b132b; /* Azul escuro fosco (confortável para os olhos) */
-    color: #48cae4;            /* Azul claro/ciano (com ótimo contraste no fundo escuro) */
+    background-color: #181a0223; /* Azul escuro fosco (confortável para os olhos) */
+    color: #f11212;            /* Azul claro/ciano (com ótimo contraste no fundo escuro) */
     margin: 0;
     padding: 20px;
     display: flex;
@@ -13,7 +13,7 @@ body {
   
   h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #ffffff;            /* Branco puro para destacar bem o título principal */
+    color: #0e0e0e;            /* Branco puro para destacar bem o título principal */
     margin-top: 0;
     text-align: center;
   }
